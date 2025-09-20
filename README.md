@@ -45,5 +45,5 @@ FaceRecognitionAttendanceSystem/
 
 📧 Contact
 
-👤 Priyanka Sharma
+👤Vaibhav Pandey
 📩 Connect with me on LinkedIn
